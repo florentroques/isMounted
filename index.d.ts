@@ -1,5 +1,5 @@
 import { MutableRefObject } from 'react';
 
-export const useIsMounted: () => MutableRefObject<boolean>
+export const useIsMounted: () => boolean
 
 export default useIsMounted;
